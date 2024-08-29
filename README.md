@@ -12,16 +12,16 @@ Software Engineer | Portfolio: [yourportfolio.github.io](https://yourportfolio.g
 
 ## 🎓 Education
 **Master in Science** in Environmental Science and Conservation   
-Federal University of Rio de Janeiro, Brazil (Abr 2023 - Jun 2025)
+Federal University of Rio de Janeiro, Brazil * *(Abr 2023 - Present)* *
 
 **Master in Business and Administration** in Data Science and Analytics   
-University of São Paulo, Brazil (Out 2023 - Jun 2025)
+University of São Paulo, Brazil * *(Out 2023 - Present)* *
 
 **Summer School** in Environmental Geodata Statistical Analysis, Modelling and Machine Learning   
-University of São Paulo, Brazil (Out 2023 - Jun 2025)
+Università degli Studi di Pisa, Italy * *(Jun 2024 - Jun 2024)* *
 
 **Bachelor in Science** in Biological Science   
-Federal University of Rio de Janeiro, Brazil (Mar 2018 - Mar 2023)
+Federal University of Rio de Janeiro, Brazil * *(Mar 2018 - Mar 2023)* *
 
 ## Projects
 **Project 1** (link to project site or GitHub repo)  
