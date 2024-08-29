@@ -12,7 +12,7 @@ Federal University of Rio de Janeiro, Brazil  *(Abr 2023 - Present)*
 University of São Paulo, Brazil *(Out 2023 - Present)*
 
 **Summer School** in Environmental Statistical Analysis and Machine Learning   
-Università degli Studi di Pisa, Italy *(Jun 2024 - Jun 2024)*
+[Università degli Studi di Pisa](https://www.unipi.it/), Italy *(Jun 2024 - Jun 2024)*
 
 **Bachelor in Science** in Biological Science   
 Federal University of Rio de Janeiro, Brazil *(Mar 2018 - Mar 2023)*
