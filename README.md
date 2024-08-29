@@ -17,7 +17,7 @@ Federal University of Rio de Janeiro, Brazil * *(Abr 2023 - Present)* *
 **Master in Business and Administration** in Data Science and Analytics   
 University of São Paulo, Brazil * *(Out 2023 - Present)* *
 
-**Summer School** in Environmental Geodata Statistical Analysis, Modelling and Machine Learning   
+**Summer School** in Environmental Statistical Analysis and Machine Learning   
 Università degli Studi di Pisa, Italy * *(Jun 2024 - Jun 2024)* *
 
 **Bachelor in Science** in Biological Science   
