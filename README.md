@@ -10,7 +10,7 @@ Software Engineer | Portfolio: [yourportfolio.github.io](https://yourportfolio.g
 - Databases: MySQL, MongoDB
 - Tools & Methods: Git, Agile, TDD, etc
 
-🎓 Education
+## 🎓 Education
 **Master in Science** in Environmental Science and Conservation   
 Federal University of Rio de Janeiro, Brazil (Abr 2023 - Jun 2025)
 
