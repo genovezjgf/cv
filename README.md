@@ -1,14 +1,8 @@
 # Jorge Gabriel Fernandes Genovez
-Biologist | Portfolio: [yourportfolio.github.io](https://yourportfolio.github.io)
+Biologist | Data Analyst
 
 ## Summary
 1-2 sentences summarizing your professional experience and expertise
-
-## Skills
-- Programming Languages: Python, JavaScript, etc 
-- Web Frameworks: React, Django, etc
-- Databases: MySQL, MongoDB
-- Tools & Methods: Git, Agile, TDD, etc
 
 ## 🎓 Education
 **Master in Science** in Environmental Science and Conservation   
@@ -23,7 +17,7 @@ Università degli Studi di Pisa, Italy *(Jun 2024 - Jun 2024)*
 **Bachelor in Science** in Biological Science   
 Federal University of Rio de Janeiro, Brazil *(Mar 2018 - Mar 2023)*
 
-## Projects
+## 🔬 Research Experience
 **Project 1** (link to project site or GitHub repo)  
 - Description of tech used and what the project involved/accomplished
 - Accomplishment 
